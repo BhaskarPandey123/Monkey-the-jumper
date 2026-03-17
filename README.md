@@ -6,7 +6,7 @@ This project recreates the core mechanics of the original game while exploring c
 ## Demo
 
 Live Page:
-https://bhaskarpandey123.github.io/Monkey-jump/
+[https://bhaskarpandey123.github.io/Monkey-jump/](https://bhaskarpandey123.github.io/Monkey-the-jumper/)
 
 ![Gameplay](https://github.com/BhaskarPandey123/Monkey-the-jumper/blob/main/Screenshot_17-3-2026_183829_bhaskarpandey123.github.io.jpeg)
 ## How to Play
